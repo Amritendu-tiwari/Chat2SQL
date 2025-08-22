@@ -3,6 +3,7 @@
 Chat2SQL is a Streamlit app powered by LangChain and Groq LLM that lets you chat with your database using natural language.
 It supports both SQLite (student.db) and MySQL connections, making it easy to query, explore, and analyze data without writing SQL manually.
 
+Demo :- https://chat2sql-ba4s8paahrcgkr9cxqqfwj.streamlit.app
 🚀 Features
 
 ✅ Choose your database: SQLite or MySQL
